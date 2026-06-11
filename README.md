@@ -47,10 +47,10 @@
 
 | Lab | What I Learned | Status |
 |---|---|---|
-| Pass / Fail | | ☐ |
-| Grade Calculator | | ☐ |
-| Average Score | | ☐ |
-| Loop Practice | | ☐ |
+| Pass / Fail | | ✅ |
+| Grade Calculator | | ✅ |
+| Average Score | | ✅ |
+| Loop Practice | | ✅ |
 
 ---
 
